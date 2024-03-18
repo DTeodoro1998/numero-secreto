@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/143758778?v=4" width=115><br><sub>Douglas Teodoro</sub>]((https://github.com/DTeodoro1998))
-| :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/143758778?v=4" width=115><br><sub>Douglas Teodoro</sub>](https://github.com/DTeodoro1998)
+| :---: | 
